@@ -1,4 +1,4 @@
-# COVID-19  Analysis with SQL
+# COVID-19 Analysis 
 
 This project focuses on analyzing COVID-19 data using SQL. It aims to extract key insights about deaths, cases, and vaccinations across different locations and continents. The analysis uses advanced SQL techniques such as aggregations, window functions, temporary tables, and views to produce meaningful results.
 
